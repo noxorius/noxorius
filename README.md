@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noxorius --> (Midlive-Crises, Familie ...)
+- 👋 Hi, I’m @noxorius --> (Midlive-Crisis, Familie ...)
 - 👀 I’m interested in familie, friends, D&D ( 2, 3.5, 5)
 - 🌱 I’m currently learning rust, js ( i have to )
 - 💞️ I’m looking to collaborate on interresting things
